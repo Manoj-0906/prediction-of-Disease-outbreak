@@ -25,6 +25,8 @@ Noise and Outliers: It effectively identifies and handles noise points without a
 ->And hence, Plotted the spread of disease using contact tracing curve.
 ->Finally, Predicted and showed the infected person through spreading.
 
-# References and support
+# Gratitude
 prateekagr21
+
+# References
 chatgpt
